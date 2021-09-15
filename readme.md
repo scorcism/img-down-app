@@ -1,4 +1,4 @@
-## Downlaod any Image By **search**
+## Download any Image By **search**
 
 Here, this is a simple tkinter application which is used to arrange the script.
 ---
